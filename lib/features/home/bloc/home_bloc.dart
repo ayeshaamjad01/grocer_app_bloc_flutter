@@ -2,6 +2,7 @@ import 'package:bloc/bloc.dart';
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:grocer_app/features/home/models/home_product_data_model.dart';
 
 part 'home_event.dart';
 part 'home_state.dart';
